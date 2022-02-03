@@ -1,11 +1,14 @@
 # CSCI3170
 Group number 23
 
-Student Name               SID
-Lee Yau TAM                1155143460
-Asma Hasna AMCHIKAK        1155173268
-Patrick Rainer GOTTSCHLING 1155173254
-
+Student Name:                 
+Asma Hasna AMCHIKAK                                                                                                                                                 
+Lee Yau TAM                                                                                                                                                         
+Patrick Rainer GOTTSCHLING                                                                                                                                          
+SID:                                                                                                                                                                
+1155173268                                                                                                                                                          
+1155143460                                                                                                                                                          
+1155173254                                                                                                                                                          
 
 Prerequisite: 
 
