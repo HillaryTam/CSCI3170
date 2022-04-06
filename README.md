@@ -1,4 +1,4 @@
-# CSCI3170
+# CSCI3170 Group Project
 Group number 23
 
 Student Name:                 
@@ -12,7 +12,7 @@ SID:
 
 Prerequisite: 
 
-Connect to OpenVPN
+Connect to CSE Linux Server via OpenVPN
 
 
 Compilation:
